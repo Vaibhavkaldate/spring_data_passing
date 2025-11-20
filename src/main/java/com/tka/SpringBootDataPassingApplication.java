@@ -8,6 +8,7 @@ public class SpringBootDataPassingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDataPassingApplication.class, args);
+		System.out.println("Updeted here once...")
 	}
 
 }
